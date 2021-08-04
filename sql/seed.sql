@@ -15,11 +15,7 @@ INSERT INTO locations
 
 VALUES
 
-    ('Texas', 'Lake Allatoona', 'Peaceful and calm waters', '/images/#', 'Kayaking'),
-
-    ('Texas', 'Good Water Loop',  'Features a lake and 26.9 trail', '/images/#', 'Backpacking and Hiking'),
-
-    ('Texas', 'Barnwell Mountain Recreation Area Loop', 'Wooded area with dirt trails and shallow water crossings', '/images/#', 'OHV');
+    ('Texas', 'Big Bend', 'Peaceful and calm waters', '/images/bigbend.webp', 'Kayaking'),
 
 INSERT INTO activities
 

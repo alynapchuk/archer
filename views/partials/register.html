@@ -1,17 +1,14 @@
-<form action="/users/register" method="POST" class="row g-3">
+<form action="/users/register" method="POST">
 
-  <div class="col-md-6">
-    <label for="inputEmail4" class="form-label">Email</label>
-    <input type="email" name = "email" class="form-control" id="inputEmail4">
+  <div class="form-group">
+    <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+      placeholder="Email Address">
   </div>
 
-  <div class="col-md-6">
-    <label for="inputPassword4" class="form-label">Password</label>
-    <input type="password" name = "password" class="form-control" id="inputPassword4">
+  <div class="form-group">
+    <input type="password" name="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
   </div>
- 
-  <div class="col-12">
-    <button type="submit" class="btn btn-primary">Register</button>
-  </div>
+
+  <button type="submit" class="btn btn-primary">Register</button>
 
 </form>
