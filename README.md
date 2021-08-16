@@ -54,9 +54,9 @@
 The Archer App project was created on July 12 2021 as a fullstack excersize by Alyna Palamarchuk, Brittany Fisher and Joshua Simon. The group utilized trello to define task, github for code organization/merging and Zoom for screen sharing. The organization of this project was tracked via Zoom, Slack, and Trello. During the construction of this app, the group learned to work jointly and independently.
 
 <u>Key Focuses</u>
-* Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-* Habitant morbi tristique senectus et netus et malesuada.
-* Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Auctor elit sed vulputate mi sit.
+* User Registration and Login
+* Browse locations for activities as well as boarding options.
+* Itinerary table to organize upcoming trips.
 
 Future implementation would include API's to track weather activities for booking travelers, like/dislike features in reviews and map API's.
 
