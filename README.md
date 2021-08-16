@@ -69,44 +69,6 @@ Future implementation would include API's to track weather activities for bookin
 * [Express](#)
 * [PostgreSQL](#)
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is how you may set up this project locally. To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-Get a free API Key at [API Website](#)
-
-Install npm
-
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-Clone the Repository
-
-   ```sh
-   git clone https://github.com/alynapchuk/archer.git
-   ```
-   
-Install NPM packages
-
-   ```sh
-   npm install
-   ```
-   
-Enter your API in `config.js`
-
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
