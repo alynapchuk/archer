@@ -105,7 +105,7 @@ Alyna Palamarchuk - [Portfolio](https://alynapchuk.com) - alynapchuk@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/alynapchuk/archer?color=219ebc&style=for-the-badge
-[contributors-url]: #
+[contributors-url]: https://github.com/alynapchuk/archer/graphs/contributors
 
 [languages-shield]: https://img.shields.io/github/languages/count/alynapchuk/archer?color=90ab60&style=for-the-badge
 [languages-url]: #
