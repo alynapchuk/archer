@@ -8,9 +8,6 @@
 <!-- PROJECT LOGO & HEADER -->
 <br />
 <p align="center">
-  <a href="#">
-    <img src="#" alt="Logo" width="50%">
-  </a>
 
   <h3 align="center">Archer</h3>
   <h4 align='center'>An accurate point in the right direction.</h4>
